@@ -1,6 +1,4 @@
-# jobsToApplyFor
-
-Apply to these jobs you fuck face.
+# Apply to these jobs you fuck face.
 
 | Jobs          | Closing Date
 | ------------- |:-------------:|
