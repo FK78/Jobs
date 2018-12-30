@@ -20,8 +20,8 @@
 | [RBS](https://www.rbsearlycareers.com/Vacancy/View/VacancyView.asp?GUID=36A674D9-52CF-4890-BC05-81083150BF54&utm_medium=paid%20job%20board&utm_source=ratemyplacement&utm_campaign=early_careers_technology) | Unknown |
 | [Intel Software Application Engineer Intern](https://jobs.intel.com/ShowJob/Id/1883477/Software-Application-Engineer-Intern/) | Unknown |
 | [Citrix Software Engineer Intern](https://jobs.citrix.com/job/CITRA005812697) | Unknown |
-| [MBDA Integration & System Validation Undergraduate Placement 2019](https://www.mbdacareers.co.uk/jobs/integration-system-validation-undergraduate-placement-2019-3406/) | Unknown |
-| [Weapon Systems Simulation & Experimentation Undergraduate Industry Placement 2019](https://www.mbdacareers.co.uk/jobs/weapon-systems-simulation-experimentation-undergraduate-industry-placement-2019-3359/) | Unknown |
+| [MBDA Integration & System Validation Undergraduate Placement](https://www.mbdacareers.co.uk/jobs/integration-system-validation-undergraduate-placement-2019-3406/) | Unknown |
+| [Weapon Systems Simulation & Experimentation Undergraduate Industry Placement](https://www.mbdacareers.co.uk/jobs/weapon-systems-simulation-experimentation-undergraduate-industry-placement-2019-3359/) | Unknown |
 | [RBI Graduate Technology Placement – Security Engineer](https://4re.referrals.selectminds.com/rbi/jobs/2019-graduate-technology-placement-%E2%80%93-security-engineer-12-month-ftc-sutton-london-19505) | Unknown |
 | []() | () |
 | []() | () |
