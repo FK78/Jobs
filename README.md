@@ -13,7 +13,7 @@ Apply to these jobs you fuck face.
 | [Schroders 2019 Global Technology Internship Programme](https://schroders.referrals.selectminds.com/careers/jobs/2019-global-technology-internship-programme-451) | Unknown |
 | [Unilever Industrial Placement Programme](https://www.unilevergraduates.com/applications2018/Default.aspx) | Unknown |
 | [Rolls Royce Software Engineering Internship Programme](https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Software-Engineering-Internship-Programme---UK_JR6039378) | 1st February 2019 |
-| []() | () |
+| [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
 | []() | () |
 | []() | () |
 | []() | () |
