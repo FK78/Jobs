@@ -17,7 +17,7 @@
 | [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | Unknown |
 | [RBS](https://www.rbsearlycareers.com/Vacancy/View/VacancyView.asp?GUID=36A674D9-52CF-4890-BC05-81083150BF54&utm_medium=paid%20job%20board&utm_source=ratemyplacement&utm_campaign=early_careers_technology) | () |
 | [Intel Software Application Engineer Intern](https://jobs.intel.com/ShowJob/Id/1883477/Software-Application-Engineer-Intern/) | Unknown |
-| []() | () |
+| [Citrix Software Engineer Intern](https://jobs.citrix.com/job/CITRA005812697) | () |
 | []() | () |
 | []() | () |
 | []() | () |
