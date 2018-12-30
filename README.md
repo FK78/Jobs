@@ -3,7 +3,7 @@
 | Jobs          | Closing Date
 | ------------- |:-------------:|
 | [JP Morgan Data Science & Machine Learning Internship Program](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180087546) | 30th December 2018 |
-| [NATS Industrial Placement Scheme](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=30041&siteid=5723&jobid=1397409#jobDetails=1397409_5723) | 11 January 2019 |
+| [NATS Industrial Placement Scheme](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=30041&siteid=5723&jobid=1397409#jobDetails=1397409_5723) | 11th January 2019 |
 | [RMP Enterprise](https://www.rmpenterprise.co.uk/join-our-team/digital-support-assistant) | 20th January 2019 |
 | [Lloyds Banking Group Talent](https://applynow.lloydsbankinggrouptalent.com/LBGGrads/VacancyInformation.aspx?VId=20187) | 31st January 2019 |
 | [Zurich Change & Technology Summer Internship Programme](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
