@@ -12,7 +12,7 @@
 | [Schroders Global Technology Internship Programme](https://schroders.referrals.selectminds.com/careers/jobs/2019-global-technology-internship-programme-451) | Unknown |
 | [Unilever Industrial Placement Programme](https://www.unilevergraduates.com/applications2018/Default.aspx) | Unknown |
 | [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
-| []() | () |
+| [National IT Industrial Placement](https://www.aldirecruitment.co.uk/industrial-placements/placement-application/) | Unknown |
 | []() | () |
 | []() | () |
 | []() | () |
