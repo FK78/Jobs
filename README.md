@@ -9,7 +9,7 @@ Apply to these jobs you fuck face.
 | [BBC](https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships/techplacements) | Unknown |
 | [Microsoft Internship opportunities: Web Development](https://careers.microsoft.com/us/en/job/524164/Internship-opportunities-Web-Development) | Unknown |
 | [Microsoft Internship opportunities for students & recent graduates: Software Engineering](https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering) | Unknown |
-| []() | () |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=180014HG&tz=GMT+01:00) | () |
 | []() | () |
 | []() | () |
 | []() | () |
