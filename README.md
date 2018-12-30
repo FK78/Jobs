@@ -15,7 +15,7 @@
 | [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
 | [National IT Industrial Placement](https://www.aldirecruitment.co.uk/industrial-placements/placement-application/) | Unknown |
 | [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | Unknown |
-| []() | () |
+| [RBS](https://www.rbsearlycareers.com/Vacancy/View/VacancyView.asp?GUID=36A674D9-52CF-4890-BC05-81083150BF54&utm_medium=paid%20job%20board&utm_source=ratemyplacement&utm_campaign=early_careers_technology) | () |
 | []() | () |
 | []() | () |
 | []() | () |
