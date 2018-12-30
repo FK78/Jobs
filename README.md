@@ -14,7 +14,7 @@
 | [Unilever Industrial Placement Programme](https://www.unilevergraduates.com/applications2018/Default.aspx) | Unknown |
 | [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
 | [National IT Industrial Placement](https://www.aldirecruitment.co.uk/industrial-placements/placement-application/) | Unknown |
-| []() | () |
+| [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | () |
 | []() | () |
 | []() | () |
 | []() | () |
