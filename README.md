@@ -1,5 +1,3 @@
-# Apply to these jobs you fuck face.
-
 | Jobs          | Closing Date
 | ------------- |:-------------:|
 | [JP Morgan Data Science & Machine Learning Internship Program](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180087546) | 30th December 2018 |
