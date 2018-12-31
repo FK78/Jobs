@@ -27,4 +27,32 @@
 | [Weapon Systems Simulation & Experimentation Undergraduate Industry Placement](https://www.mbdacareers.co.uk/jobs/weapon-systems-simulation-experimentation-undergraduate-industry-placement-2019-3359/) | Unknown |
 | [RBI Graduate Technology Placement – Security Engineer](https://4re.referrals.selectminds.com/rbi/jobs/2019-graduate-technology-placement-%E2%80%93-security-engineer-12-month-ftc-sutton-london-19505) | Unknown |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html) | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+| []() | Unknown |
+
+
+
+
+
+
 
