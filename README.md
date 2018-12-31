@@ -1,6 +1,6 @@
 | Jobs          | Closing Date
 | ------------- |:-------------:|
-| [JP Morgan Data Science & Machine Learning Internship Program](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180087546) | 30th December 2018 |
+| [JP Morgan Data Science & Machine Learning Internship Program](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180087546) | 30th December 2018 (Closed) |
 | [ATOS](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTc1NTc1MyZ2dF90ZW1wbGF0ZT0xMDg3Jm93bmVyPTUwNDM3NTgmb3duZXJ0eXBlPWZhaXImYnJhbmRfaWQ9MCZ2YWN0eXBlPTE1MDAmb2NjX2NvZGU9OTEzNiZwb3N0aW5nX2NvZGU9MzM2) | 7th January 2019 |
 | [NATS Industrial Placement Scheme](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=30041&siteid=5723&jobid=1397409#jobDetails=1397409_5723) | 11th January 2019 |
 | [RMP Enterprise](https://www.rmpenterprise.co.uk/join-our-team/digital-support-assistant) | 20th January 2019 |
