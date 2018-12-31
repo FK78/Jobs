@@ -31,7 +31,7 @@
 | [BAE Systems Industrial Placement - Software](https://baesystems.gti.co.uk/Vacancy/View/VacancyView.asp?GUID=6F1626DA-8919-445A-B517-51AFADDA8FF5) | Unknown |
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
-| []() | Unknown |
+| [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
 | []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
