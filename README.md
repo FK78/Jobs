@@ -3,6 +3,7 @@
 | [JP Morgan Data Science & Machine Learning Internship](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180087546) | 30th December 2018 (Closed) |
 | [ATOS](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTc1NTc1MyZ2dF90ZW1wbGF0ZT0xMDg3Jm93bmVyPTUwNDM3NTgmb3duZXJ0eXBlPWZhaXImYnJhbmRfaWQ9MCZ2YWN0eXBlPTE1MDAmb2NjX2NvZGU9OTEzNiZwb3N0aW5nX2NvZGU9MzM2) | 7th January 2019 |
 | [NATS Industrial Placement Scheme](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=30041&siteid=5723&jobid=1397409#jobDetails=1397409_5723) | 11th January 2019 |
+| [Cyber and Information Systems Industrial Placement Student](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmam9ibGlzdF92aWV3X3ZhYz0xNjA3NDc2Jm93bmVydHlwZT1mYWlyJm93bmVyPTUwNzAwMDAmdXNlcnNlYXJjaGNvbnRleHQ9NjgzNTY2MjgmY3NvdXJjZT1jc3FzZWFyY2gmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaF9zbGljZV9jdXJyZW50PTEmcmVxc2lnPTE1NDM5MzYzMzItZjk3ZmZmOTM0MTk2NDRmZjZhYzMxY2U0MjA5NjcwZGYxZmUyYzM5OA==) | 13th Jan 2019 |
 | [RMP Enterprise](https://www.rmpenterprise.co.uk/join-our-team/digital-support-assistant) | 20th January 2019 |
 | [Lloyds Banking Group Talent](https://applynow.lloydsbankinggrouptalent.com/LBGGrads/VacancyInformation.aspx?VId=20187) | 31st January 2019 |
 | [Zurich Change & Technology Summer Internship](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
@@ -31,7 +32,6 @@
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
 | [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
-| []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
