@@ -30,7 +30,7 @@
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
 | [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
-| []() | Unknown |
+| [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?b417bfb5e5d0f761#mMQUnxPvC7U8Es+bRP9M0xqPTZGxr3eMvcG2mskevEQ=) | 22nd February 2019 |
 | []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
