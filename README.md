@@ -7,13 +7,14 @@
 | [Lloyds Banking Group Talent](https://applynow.lloydsbankinggrouptalent.com/LBGGrads/VacancyInformation.aspx?VId=20187) | 31st January 2019 |
 | [Zurich Change & Technology Summer Internship](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
 | [Rolls Royce Software Engineering Internship](https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Software-Engineering-Internship-Programme---UK_JR6039378) | 1st February 2019 |
+| [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?b417bfb5e5d0f761#mMQUnxPvC7U8Es+bRP9M0xqPTZGxr3eMvcG2mskevEQ=) | 22nd February 2019 |
 | [Nestle ISIT](https://www.prospects.ac.uk/employer-profiles/nestle-19812/jobs/information-systems-and-information-technology-placement-2673200?sortBy=dp&advert_top=17184&size=20&page=6) | 15th March 2019 |
 | [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Unknown |
 | [BBC](https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships/techplacements) | Unknown |
 | [Microsoft Internship: Web Development](https://careers.microsoft.com/us/en/job/524164/Internship-opportunities-Web-Development) | Unknown |
 | [Microsoft Internship: Software Engineering](https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering) | Unknown |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=180014HG&tz=GMT+01:00) | Unknown |
-| [Schroders Global Technology Internship](https://schroders.referrals.selectminds.com/careers/jobs/2019-global-technology-internship-programme-451) | Unknown |
+| [Schroders Global Technology Internship](https://schroders.referrals.selectminds.com/careers/jobs/2019-global-technology-internship-programme-451) | Closed |
 | [Unilever Industrial Placement](https://www.unilevergraduates.com/applications2018/Default.aspx) | Unknown |
 | [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
 | [National IT Industrial Placement](https://www.aldirecruitment.co.uk/industrial-placements/placement-application/) | Unknown |
@@ -30,7 +31,6 @@
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
 | [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
-| [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?b417bfb5e5d0f761#mMQUnxPvC7U8Es+bRP9M0xqPTZGxr3eMvcG2mskevEQ=) | 22nd February 2019 |
 | []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
