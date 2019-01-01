@@ -9,7 +9,7 @@
 | [Zurich Change & Technology Summer Internship](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
 | [Rolls Royce Software Engineering Internship](https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Software-Engineering-Internship-Programme---UK_JR6039378) | 1st February 2019 |
 | [eg technology Ltd Software Student Placement](https://privatebin.net/?df7f9ae6c8dcc4fc#YLOYBcH6AwzVGRCxBv/830B/40hvAXpN0XMJMk3E84Y=) | 1st February 2019 |
-| [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?acf0d9a9924fc515#0y1boBI+00cGoD8IOaoFjF32girprQCi05vPp+fje5Q=) | 22nd February 2019 |
+| [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?e34cd88964142859#7mqsNxKIaGrKop1EKKqPeDYzNQblRx/pMXDkGPUcjgo=) | 22nd February 2019 |
 | [Nestle ISIT](https://www.prospects.ac.uk/employer-profiles/nestle-19812/jobs/information-systems-and-information-technology-placement-2673200?sortBy=dp&advert_top=17184&size=20&page=6) | 15th March 2019 |
 | [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Unknown |
 | [BBC](https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships/techplacements) | Unknown |
