@@ -8,6 +8,7 @@
 | [Lloyds Banking Group Talent](https://applynow.lloydsbankinggrouptalent.com/LBGGrads/VacancyInformation.aspx?VId=20187) | 31st January 2019 |
 | [Zurich Change & Technology Summer Internship](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
 | [Rolls Royce Software Engineering Internship](https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Software-Engineering-Internship-Programme---UK_JR6039378) | 1st February 2019 |
+| [eg technology Ltd Software Student Placement](https://privatebin.net/?df7f9ae6c8dcc4fc#YLOYBcH6AwzVGRCxBv/830B/40hvAXpN0XMJMk3E84Y=) | 1st February 2019 |
 | [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?b417bfb5e5d0f761#mMQUnxPvC7U8Es+bRP9M0xqPTZGxr3eMvcG2mskevEQ=) | 22nd February 2019 |
 | [Nestle ISIT](https://www.prospects.ac.uk/employer-profiles/nestle-19812/jobs/information-systems-and-information-technology-placement-2673200?sortBy=dp&advert_top=17184&size=20&page=6) | 15th March 2019 |
 | [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Unknown |
@@ -32,7 +33,6 @@
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
 | [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
-| []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
 | []() | Unknown |
