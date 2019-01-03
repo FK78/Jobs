@@ -28,7 +28,7 @@
 | [Weapon Systems Simulation & Experimentation Undergraduate Industry Placement](https://www.mbdacareers.co.uk/jobs/weapon-systems-simulation-experimentation-undergraduate-industry-placement-2019-3359/) | Unknown |
 | [RBI Graduate Technology Placement – Security Engineer](https://4re.referrals.selectminds.com/rbi/jobs/2019-graduate-technology-placement-%E2%80%93-security-engineer-12-month-ftc-sutton-london-19505) | Unknown |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html) | Unknown |
-| [VWFS IT Risk & Security Placement](https://vwfsjobs.co.uk/jobs/vacancy/it-risk--security-placement-1386-one-delaware-drive/1404/description/) | Unknown |
+| [VWFS IT Risk & Security Placement](https://vwfsjobs.co.uk/jobs/vacancy/it-risk--security-placement-1386-one-delaware-drive/1404/description/) | Closed |
 | [BAE Systems Industrial Placement - Software](https://baesystems.gti.co.uk/Vacancy/View/VacancyView.asp?GUID=6F1626DA-8919-445A-B517-51AFADDA8FF5) | Unknown |
 | [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
