@@ -9,6 +9,7 @@
 | [Zurich Change & Technology Summer Internship](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=180007ZZ) | 31st January 2019 |
 | [Rolls Royce Software Engineering Internship](https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Software-Engineering-Internship-Programme---UK_JR6039378) | 1st February 2019 |
 | [eg technology Ltd Software Student Placement](https://privatebin.net/?df7f9ae6c8dcc4fc#YLOYBcH6AwzVGRCxBv/830B/40hvAXpN0XMJMk3E84Y=) | 1st February 2019 |
+| [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | 17th February 2019 |
 | [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?e34cd88964142859#7mqsNxKIaGrKop1EKKqPeDYzNQblRx/pMXDkGPUcjgo=) | 22nd February 2019 |
 | [Nestle ISIT](https://www.prospects.ac.uk/employer-profiles/nestle-19812/jobs/information-systems-and-information-technology-placement-2673200?sortBy=dp&advert_top=17184&size=20&page=6) | 15th March 2019 |
 | [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Unknown |
@@ -20,7 +21,7 @@
 | [Unilever Industrial Placement](https://www.unilevergraduates.com/applications2018/Default.aspx) | Unknown |
 | [Vodafone](https://careers.vodafone.co.uk/job/industrial-placement-uk-technology-2019-in-newbury-berkshire-jid-17675) | Unknown |
 | [National IT Industrial Placement](https://www.aldirecruitment.co.uk/industrial-placements/placement-application/) | Unknown |
-| [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | Unknown |
+
 | [RBS](https://www.rbsearlycareers.com/Vacancy/View/VacancyView.asp?GUID=36A674D9-52CF-4890-BC05-81083150BF54&utm_medium=paid%20job%20board&utm_source=ratemyplacement&utm_campaign=early_careers_technology) | Unknown |
 | [Intel Software Application Engineer Intern](https://jobs.intel.com/ShowJob/Id/1883477/Software-Application-Engineer-Intern/) | Unknown |
 | [Citrix Software Engineer Intern](https://jobs.citrix.com/job/CITRA005812697) | Unknown |
@@ -30,7 +31,7 @@
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html) | Unknown |
 | [VWFS IT Risk & Security Placement](https://vwfsjobs.co.uk/jobs/vacancy/it-risk--security-placement-1386-one-delaware-drive/1404/description/) | Closed |
 | [BAE Systems Industrial Placement - Software](https://baesystems.gti.co.uk/Vacancy/View/VacancyView.asp?GUID=6F1626DA-8919-445A-B517-51AFADDA8FF5) | Unknown |
-| [Metaswitch](https://www.metaswitch.com/careers/internships) | Unknown |
+| [Metaswitch](https://www.metaswitch.com/careers/internships) | Closed |
 | [Zebra UX Software Developer](https://emea-zebra.icims.com/jobs/57168/intern%2c-ux-software-developer/job) | Unknown |
 | [Redgate Product/UX Design Internship](https://www.red-gate.com/our-company/careers/current-opportunities/product-ux-design-internship-2019-10-weeks) | Unknown |
 | []() | Unknown |
