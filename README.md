@@ -12,8 +12,8 @@
 | [ProspectSoft Placements](https://placements.prospectsoft.com/Technical) | 17th February 2019 |
 | [ASM Assembly Systems Weymouth Ltd Software Engineering Placement](https://privatebin.net/?e34cd88964142859#7mqsNxKIaGrKop1EKKqPeDYzNQblRx/pMXDkGPUcjgo=) | 22nd February 2019 |
 | [Nestle ISIT](https://www.prospects.ac.uk/employer-profiles/nestle-19812/jobs/information-systems-and-information-technology-placement-2673200?sortBy=dp&advert_top=17184&size=20&page=6) | 15th March 2019 |
-| [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Unknown |
-| [BBC](https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships/techplacements) | Unknown |
+| [FCA](https://fcacareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/33-Summer-Internship-Programme/en-GB) | Closed |
+| [BBC](https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships/techplacements) | Closed |
 | [Microsoft Internship: Web Development](https://careers.microsoft.com/us/en/job/524164/Internship-opportunities-Web-Development) | Unknown |
 | [Microsoft Internship: Software Engineering](https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering) | Unknown |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=180014HG&tz=GMT+01:00) | Unknown |
